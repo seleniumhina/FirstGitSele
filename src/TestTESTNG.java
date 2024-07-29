@@ -7,7 +7,7 @@ public class TestTESTNG {
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver","C:\\\\Webdriver\\\\chromedriver-win64\\\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
-		driver.get("https://macroplanfrontend.estonetech.in/app/home");
+		driver.("https://macroplanfrontend.estonetech.in/app/home");
 		Thread.sleep(5000);
 	      driver.manage().window().maximize();
 	      driver.findElement(By.name("email")).sendKeys("admin@macroplan-2140.com");
