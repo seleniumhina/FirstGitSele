@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-30T17:26:56 IST" name="Default suite" finished-at="2024-07-30T17:27:19 IST" duration-ms="22901">
+  <suite started-at="2024-07-30T18:53:05 IST" name="Default suite" finished-at="2024-07-30T18:53:30 IST" duration-ms="24834">
     <groups>
     </groups>
-    <test started-at="2024-07-30T17:26:56 IST" name="Default test" finished-at="2024-07-30T17:27:19 IST" duration-ms="22901">
+    <test started-at="2024-07-30T18:53:05 IST" name="Default test" finished-at="2024-07-30T18:53:30 IST" duration-ms="24834">
       <class name="TestTESTNG">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestTESTNG@130161f7]" started-at="2024-07-30T17:26:56 IST" name="beforeMethod" finished-at="2024-07-30T17:27:12 IST" duration-ms="16231" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestTESTNG@619713e5]" started-at="2024-07-30T18:53:05 IST" name="beforeMethod" finished-at="2024-07-30T18:53:23 IST" duration-ms="18125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:TestTESTNG@130161f7]" started-at="2024-07-30T17:27:12 IST" name="f" finished-at="2024-07-30T17:27:19 IST" duration-ms="6636" status="PASS">
+        <test-method signature="f()[pri:0, instance:TestTESTNG@619713e5]" started-at="2024-07-30T18:53:23 IST" name="f" finished-at="2024-07-30T18:53:30 IST" duration-ms="6677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
